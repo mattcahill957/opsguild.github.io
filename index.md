@@ -16,5 +16,5 @@ feature_row:
 ## About Me
 I’m documenting my journey from retail floors to cybersecurity.  
 Curious how a complete beginner learns real-world skills?  
-[Get started by reading My Story](/blog/2025-08-30-my-story/)
+[Get started by reading My Story](/blog/2025-08-30-my-story.md/)
 
