@@ -13,4 +13,8 @@ feature_row:
     excerpt: "Commands that actually stick: cd, ls, grep, chmod …"
     url: "/labs/"
 ---
+## About Me
+I’m documenting my journey from retail floors to cybersecurity.  
+Curious how a complete beginner learns real-world skills?  
+[Get started by reading My Story](/blog/2025-08-30-my-story/)
 
