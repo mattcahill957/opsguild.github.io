@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Resources"
 header:
   overlay_color: "#111"
