@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Labs"
 header:
   overlay_color: "#111"
