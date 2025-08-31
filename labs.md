@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Labs"
+header:
+  overlay_color: "#111"
+  overlay_filter: 0.3
 permalink: /labs/
 ---
 
