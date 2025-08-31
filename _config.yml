@@ -3,6 +3,7 @@ description: "Documenting my escape from retail into cybersecurity—labs, lesso
 baseurl: "" # leave blank for root domain
 url: "" # you can update with your custom domain later
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+favicon: favicon.png
 
 plugins:
   - jekyll-feed
