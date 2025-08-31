@@ -1,0 +1,30 @@
+title: OpsGuild
+description: "Documenting my escape from retail into cybersecurity—labs, lessons, and notes."
+baseurl: "" # leave blank for root domain
+url: "" # you can update with your custom domain later
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+markdown: kramdown
+highlighter: rouge
+
+author:
+  name: "Matt Cahill"
+  bio: "From retail floors to firewalls. Beginner sharing what actually clicks."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/OpsGuild"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mattcahill957"
+
+collections:
+  labs:
+    output: true
+

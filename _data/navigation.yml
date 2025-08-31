@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Labs"
+    url: /labs/
+  - title: "About"
+    url: /about/
+  - title: "Resources"
+    url: /resources/
+
