@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Resources"
+header:
+  overlay_color: "#111"
+  overlay_filter: 0.3
 permalink: /resources/
 ---
 
