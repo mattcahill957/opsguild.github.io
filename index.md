@@ -3,7 +3,7 @@ layout: home
 title: "OpsGuild"
 subtitle: "From retail floors to firewalls — documenting my beginner journey in cybersecurity."
 header:
-  overlay_color: "#111"
+  overlay_color: "#0070F3"
   overlay_filter: "0.3"
 feature_row:
   - title: "Latest Post"
