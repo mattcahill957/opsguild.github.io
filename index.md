@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "OpsGuild"
 subtitle: "From retail floors to firewalls — documenting my beginner journey in cybersecurity."
 header:
@@ -12,4 +12,5 @@ feature_row:
   - title: "Linux Notes"
     excerpt: "Commands that actually stick: cd, ls, grep, chmod …"
     url: "/labs/"
+---
 
