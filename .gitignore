@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.bundle/
+vendor/
+
+# Logs
+*.log
+
+# Misc
+.env
+
