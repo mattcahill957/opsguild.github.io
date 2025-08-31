@@ -13,6 +13,7 @@ feature_row:
   - title: "Linux Notes"
     excerpt: "Commands that actually stick: cd, ls, grep, chmod …"
     url: "/labs/"
+---
 <style>
 /* Generic headers */
 h1, h2, h3 {
@@ -60,5 +61,4 @@ button:hover, .btn:hover {
   background-color: #FF3B30;
 }
 </style>
----
 
