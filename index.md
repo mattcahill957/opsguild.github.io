@@ -10,4 +10,4 @@ I’m documenting my journey from retail floors to cybersecurity.
 Curious how a complete beginner learns real-world skills?  
 Get started by reading [My Story](/my-story/)
 
-<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="icon" type="image/png" href="/main/favicon.png">
