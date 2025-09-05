@@ -7,7 +7,7 @@ header:
 permalink: /projects/
 ---
 
-# Labs
+# Projects
 
 Hi there!  
 
