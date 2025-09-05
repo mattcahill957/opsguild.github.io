@@ -1,4 +1,4 @@
-tmain:
+main:
   - title: "Home"
     url: /
   - title: "Blog"
