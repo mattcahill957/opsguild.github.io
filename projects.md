@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Labs"
+title: "Projects"
 header:
   overlay_color: "#111"
   overlay_filter: 0.3
