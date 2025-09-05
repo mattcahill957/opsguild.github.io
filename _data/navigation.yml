@@ -1,10 +1,10 @@
-main:
+tmain:
   - title: "Home"
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Labs"
-    url: /labs/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
   - title: "Resources"
