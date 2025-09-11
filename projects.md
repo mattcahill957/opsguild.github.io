@@ -7,11 +7,7 @@ header:
 permalink: /projects/
 ---
 
-# Projects
+<h1>Projects</h1>
 
-Hi there!  
-
-I’m planning to document the labs and exercises I complete as I learn about cybersecurity. This page will grow over time as I work through different challenges, share notes, and add insights.  
-
-Stay tuned—new labs will be added as I complete them!  
-
+<h2>How I Spotted a Phishing Email: A Hands-On Lab Walkthrough 🎣</h2>
+<p><a href="https://opsguild.net/2025/09/10/spot-the-fish.html">Read More</a></p>
