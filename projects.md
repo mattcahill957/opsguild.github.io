@@ -11,3 +11,6 @@ permalink: /projects/
 
 <h2>How I Spotted a Phishing Email: A Hands-On Lab Walkthrough 🎣</h2>
 <p><a href="https://opsguild.net/2025/09/10/spot-the-fish.html">Read More</a></p>
+
+<h2>From Alert to Action: Responding to a DoS Attack in a Simulated Lab 💥</h2>
+<p><a href="https://opsguild.net/2025/09/23/alert-to-action.html">Read More</a></p>
