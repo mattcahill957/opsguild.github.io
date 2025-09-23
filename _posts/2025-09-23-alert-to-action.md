@@ -49,17 +49,17 @@ date: 2025-09-23
 
 <p>The SYN flood attack had a significant negative impact on both the travel agency's network performance and its business operations:</p>
 
-<p>Network Performance: The most direct effect was the denial of service. The server's resources (CPU, memory, network bandwidth) were completely consumed by the flood of malicious requests, rendering it unresponsive to legitimate users. This manifested as the "connection timeout" errors experienced by both employees and customers.</p>
+<p>-Network Performance: The most direct effect was the denial of service. The server's resources (CPU, memory, network bandwidth) were completely consumed by the flood of malicious requests, rendering it unresponsive to legitimate users. This manifested as the "connection timeout" errors experienced by both employees and customers.</p>
 
-<p>Business Operations: For a travel agency, an offline website is a direct hit to the bottom line. With the website down, customers couldn't browse vacation packages or make bookings, leading to immediate lost sales and revenue. Beyond the financial impact, such an incident can severely damage the company's reputation and erode customer trust.</p>
+<p>-Business Operations: For a travel agency, an offline website is a direct hit to the bottom line. With the website down, customers couldn't browse vacation packages or make bookings, leading to immediate lost sales and revenue. Beyond the financial impact, such an incident can severely damage the company's reputation and erode customer trust.</p>
 
 <p>Following this initial containment, my next immediate step would be to alert my manager. I would provide a concise incident report outlining the type of attack, its impact, and the temporary measures taken. We would then discuss next steps, which would likely include:</p>
 
-<p>Implementing advanced DDoS mitigation services.</p>
+<p>-Implementing advanced DDoS mitigation services.</p>
 
-<p>Configuring the firewall with more sophisticated rate-limiting rules to prevent a single source from overwhelming the server.</p>
+<p>-Configuring the firewall with more sophisticated rate-limiting rules to prevent a single source from overwhelming the server.</p>
 
-<p>Enhancing monitoring and alerting to detect such attacks more rapidly.</p>
+<p>-Enhancing monitoring and alerting to detect such attacks more rapidly.</p>
 
 <p>This simulated incident was an invaluable learning experience. It provided hands-on practice in threat identification, incident triage, and implementing initial containment measures, all of which are essential skills for an aspiring security analyst. It reinforced the importance of quick, decisive action and the need for a layered security approach to protect critical assets from ever-evolving threats.</p>
 
