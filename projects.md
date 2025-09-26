@@ -14,3 +14,6 @@ permalink: /projects/
 
 <h2>From Alert to Action: Responding to a DoS Attack in a Simulated Lab 💥</h2>
 <p><a href="https://opsguild.net/2025/09/23/alert-to-action.html">Read More</a></p>
+
+<h2>Following the Script: My First Phishing Incident Response Using a SOC Playbook 📄</h2>
+<p><a href="https://opsguild.net/2025/09/25/phishing-playbook.html">Read More</a></p>
