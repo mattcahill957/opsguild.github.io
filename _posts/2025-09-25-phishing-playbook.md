@@ -49,9 +49,9 @@ date: 2025-09-25
 
 <p>-Updated Ticket Status: I set the status to "Resolved – Escalated for L2." This is a deliberate choice: while the immediate containment steps were complete as per the Level-One analyst's playbook, the incident required escalation to a Level 2 (L2) analyst for a full forensic analysis.</p>
 
-<p>-Ticket Comments/Findings: I provided a concise summary of the incident and the justification for my actions:
-  -Description: "Phishing alert validated; SHA256 file hash confirmed malicious, leading to immediate compromise of an internal endpoint."
-  -Reasoning for Escalation: "The incident was successfully contained by isolating the endpoint as per the playbook. It is now escalated to Level 2 for full forensic analysis to determine the scope of the breach, check for persistence mechanisms, and establish if any data exfiltration or privilege escalation occurred."</p>
+<p>-Ticket Comments/Findings: I provided a concise summary of the incident and the justification for my actions:</p>
+<p style="margin-left: 50px;">-Description: "Phishing alert validated; SHA256 file hash confirmed malicious, leading to immediate compromise of an internal endpoint."</p>
+<p style="margin-left: 50px;">-Reasoning for Escalation: "The incident was successfully contained by isolating the endpoint as per the playbook. It is now escalated to Level 2 for full forensic analysis to determine the scope of the breach, check for persistence mechanisms, and establish if any data exfiltration or privilege escalation occurred."</p>
 
 <p>This lab was an invaluable exercise in structured incident management. It gave me hands-on experience in process adherence, threat validation, and professional documentation, reinforcing my ability to be a reliable and disciplined component of any security team.</p>
 
